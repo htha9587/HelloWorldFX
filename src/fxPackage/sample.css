@@ -1,0 +1,8 @@
+@CHARSET "ISO-8859-1";
+.root{
+	-fx-background-color: gold;
+}
+
+.label {
+	-fx-font-size: 20;
+}
